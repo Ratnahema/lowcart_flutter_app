@@ -1,3 +1,21 @@
+#  LowCart Flutter App
+
+LowCart is a modern, clean, and lightweight Flutter-based e-commerce application designed to provide users with a smooth and interactive shopping experience.
+
+##  Features
+
+- 🖼️ Beautiful UI with custom themes
+- 🔍 Product listing and detailed view
+- 👤 User profile screen
+- 🛍️ Add-to-cart functionality (planned)
+- 📦 Responsive layout for different screen sizes
+- 📡 Uses HTTP requests to fetch data (can integrate with APIs)
+- 🚀 Fast and smooth navigation between screens
+
+## 📂 Project Structure
+
+
+
 # lowcart_flutter_app
 
 A new Flutter project.
